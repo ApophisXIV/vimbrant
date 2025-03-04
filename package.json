@@ -1,9 +1,9 @@
 {
     "name": "vimbrant",
     "displayName": "vimbrant",
-    "description": "An old vibrant color scheme",
+    "description": "An old vibrant color scheme by Guido Rodriguez",
     "version": "0.0.1",
-    "publisher": "Guido Rodriguez",
+    "publisher": "apophis14",
     "engines": {
         "vscode": "^1.97.0"
     },
