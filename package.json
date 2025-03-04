@@ -1,0 +1,27 @@
+{
+    "name": "vimbrant",
+    "displayName": "vimbrant",
+    "description": "An old vibrant color scheme",
+    "version": "0.0.1",
+    "publisher": "Guido Rodriguez",
+    "engines": {
+        "vscode": "^1.97.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ApophisXIV/vimbrant"
+    },
+    "license": "MIT",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "vimbrant",
+                "uiTheme": "hc-black",
+                "path": "./themes/vimbrant-color-theme.json"
+            }
+        ]
+    }
+}
